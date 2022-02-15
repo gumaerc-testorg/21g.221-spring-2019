@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-221-communicating-in-american-culture-s-spring-2019/3aa0e95c9e5ec4ced27b9d320bac651c_MIT21G_221S19_swr.pdf
+file: /media/courses/21g-221-communicating-in-american-culture-s-spring-2019/3aa0e95c9e5ec4ced27b9d320bac651c_MIT21G_221S19_swr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Short Written Response
 uid: 3aa0e95c-9e5e-c4ce-d27b-9d320bac651c

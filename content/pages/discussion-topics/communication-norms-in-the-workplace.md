@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: Communication Norms in the Workplace
 uid: e629c4bb-d1ea-0fc4-5a3a-1d63b777cca1

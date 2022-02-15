@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Topics to Guide Reading and Discussion
 uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 ---

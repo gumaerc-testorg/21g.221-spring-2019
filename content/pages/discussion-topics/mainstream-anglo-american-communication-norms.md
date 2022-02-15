@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: Mainstream Anglo-American Communication Norms
 uid: 2f13b08f-b565-4ac7-c9cc-4b73638dc4b8

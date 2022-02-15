@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Additional Resources
 uid: 9d9d2ad3-70d4-bb41-9a3c-15cc57e32623
 ---

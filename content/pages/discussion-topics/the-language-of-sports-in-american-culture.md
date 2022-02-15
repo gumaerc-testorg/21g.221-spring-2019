@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: The Language of Sports in American Culture
 uid: 44ae936b-d02d-95e4-30b7-23f3685852ae

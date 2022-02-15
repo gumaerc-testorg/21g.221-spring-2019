@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: The Art of American Small Talk
 uid: 37a74479-85a9-d02c-11ed-f7b9cef9fd7f

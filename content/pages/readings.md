@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Other Assigned Materials
 uid: afb59ccb-e368-1531-bd71-47e1777cd41e
 ---
