@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab84ba54-ab1b-7441-a1dc-b9b3a8402d27
 resourcetype: Document
 title: Short Written Response
 uid: 3aa0e95c-9e5e-c4ce-d27b-9d320bac651c

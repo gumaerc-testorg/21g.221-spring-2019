@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab84ba54-ab1b-7441-a1dc-b9b3a8402d27
 resourcetype: Document
 title: 'Oral Response #1'
 uid: 0a8bcb86-d3d6-b3d1-1316-b8d4fa49910e

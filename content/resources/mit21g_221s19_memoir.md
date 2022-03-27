@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab84ba54-ab1b-7441-a1dc-b9b3a8402d27
 resourcetype: Document
 title: Educational Memoir
 uid: 2764acb7-7260-1026-f8fe-e9d93314dd26

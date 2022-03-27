@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab84ba54-ab1b-7441-a1dc-b9b3a8402d27
 resourcetype: Document
 title: Breaking Away Analysis
 uid: 3e881680-2c08-19a2-edde-2c8a76cfc329

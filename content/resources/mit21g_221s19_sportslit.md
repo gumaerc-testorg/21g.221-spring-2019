@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Additional Resources
 parent_type: CourseSection
+parent_uid: 9d9d2ad3-70d4-bb41-9a3c-15cc57e32623
 resourcetype: Document
 title: Sports Literature Suggested Readings
 uid: ab2b0ecd-1919-0a2b-e1a4-4fa1a4357873
