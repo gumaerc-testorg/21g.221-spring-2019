@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Discussion topics from sessions 2 and 3
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion

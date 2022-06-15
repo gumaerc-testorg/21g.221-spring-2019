@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -92,7 +93,7 @@ John McWhorter (2012). [“How Americans Have Reshaped Language.”](https://www
 
 “I Take Your Point” in Graff et al., pp. 163–165.
 
-[Course Workbook Part 1 (PDF - 1.2 MB)]({{< baseurl >}}/resources/mit21g_221s19_cw1)
+{{% resource_link 65088d43-6047-a6ad-d4df-c1d82566eea7 "Course Workbook Part 1 (PDF - 1.2 MB)" %}}
 
 
 {{< tdclose >}}
@@ -124,7 +125,7 @@ Deborah Tannen. “Agonism in the Academy: Surviving the Argumentation Culture�
 
 MIT ODL Video Services (2018). [“No One Writes Alone: Peer Review in the Classroom, A Guide For Students” (video)](https://ttv.mit.edu/videos/936bd3ff12d742d6b47a3397800b76ca/).
 
-[Course Workbook Part 2 (PDF - 1.1 MB)]({{< baseurl >}}/resources/mit21g_221s19_cw2)
+{{% resource_link ad53943e-b192-ba5c-a03a-6efd647838d5 "Course Workbook Part 2 (PDF - 1.1 MB)" %}}
 
 
 {{< tdclose >}}
@@ -156,7 +157,7 @@ Ready4Work.MY (2013). [“Get that Job—Making Small Talk” (YouTube)](https:
 
 Colin Woodard (2011). _American Nations: A History of the Eleven Rival Regional Cultures of North America_. Viking Penguin, pp. 1﻿–19. ISBN: 9780143122029.
 
-Colin Woodard (2011). ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The American Nations Today” (PDF of map)](http://www.colinwoodard.com/files/ColinWoodard_AmericanNations_map.pdf).
+Colin Woodard (2011). [“The American Nations Today” (PDF of map)](http://www.colinwoodard.com/files/ColinWoodard_AmericanNations_map.pdf).
 
 Gonick, pp. 1–77.
 
@@ -188,7 +189,7 @@ Gonick, pp. 93–179.
 {{< tdopen >}}
 
 
-[Course Workbook Part 3 (PDF - 1.2 MB)]({{< baseurl >}}/resources/mit21g_221s19_cw3)
+{{% resource_link 0e271c4e-7810-3986-a72d-2f4356da62fa "Course Workbook Part 3 (PDF - 1.2 MB)" %}}
 
 
 {{< tdclose >}}
@@ -321,7 +322,7 @@ Josh Katz (2016). [“‘Duck Dynasty’ vs. ‘Modern Family’: 50 Maps of the
 {{< tdopen >}}
 
 
-[Course Workbook Part 4 (PDF - 2 MB)]({{< baseurl >}}/resources/mit21g_221s19_cw4)
+{{% resource_link c623341a-5f9e-cba1-d962-341a78939075 "Course Workbook Part 4 (PDF - 2 MB)" %}}
 
 
 {{< tdclose >}}
