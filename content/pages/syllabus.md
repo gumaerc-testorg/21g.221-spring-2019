@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 52f60bf1-810d-6af5-473c-4a026ad5a9ab
 ---
@@ -46,7 +49,7 @@ Required Materials
 ------------------
 
 1.   Gonick, Larry. (2005). _The_ _Cartoon History of the United States_. NY: Collins. ISBN: 9780062730985.
-2.  [Assigned readings, video clips, and still images]({{< baseurl >}}/pages/readings). Please print out the assigned readings for each period and bring them to class.
+2.  {{% resource_link afb59ccb-e368-1531-bd71-47e1777cd41e "Assigned readings, video clips, and still images" %}}. Please print out the assigned readings for each period and bring them to class.
 3.  A folder with pockets to hold print-outs of readings, assignment drafts, etc.
 
 Recommended Resources

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: Geography, History, and American Communication Patterns
 uid: 11d6251b-624a-4038-a891-d1da87985562
@@ -41,7 +45,7 @@ Study the materials and prepare to contribute in an informed discussion of the f
 In our second Gonick reading, he covers the ''New Nation," Expansion & Reform (pp. 93–179). To what extent was the American Revolution a revolt against taxes?
 
 *   How does the Declaration of Independence form the foundation of the American government and identity? What is the relationship between the Declaration of Independence and the Articles of Confederation? How did the early Supreme Court portray the division of power between the federal and state governments?
-*   What role did compromise play in establishing the first political structures? Consider the language of the founding fathers and the reality of the 18th century.
+*   What role did compromise play in establishing the first political structures? Consider the language of the founding fathers and the reality of the 18{{< sup "th" >}} century.
 *   How did political parties take shape? Compare the political visions of Jefferson, Hamilton, and Jackson. Can you hear/see any echoes of these visions in current political discourse?
 *   What features of American culture does the Monroe Doctrine reflect?
 

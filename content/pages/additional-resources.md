@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Additional Resources
 uid: 9d9d2ad3-70d4-bb41-9a3c-15cc57e32623
 ---
@@ -86,7 +89,7 @@ Week 12:
 
 *   Benjamin Markovits (2010). ["Literary Giants on the Playing Fields of America."](https://www.theguardian.com/books/2010/jun/06/american-sportswriting-benjamin-markovits) _The Guardian_, 6/5/2010.
 *   [Sport Literature Association](https://www.uta.edu/english/sla/about.html) website.
-*   [Sports literature reading suggestions (PDF)]({{< baseurl >}}/resources/mit21g_221s19_sportslit). 
+*   {{% resource_link ab2b0ecd-1919-0a2b-e1a4-4fa1a4357873 "Sports literature reading suggestions (PDF)" %}}. 
 *   Samuel G. Freedman (2005). ["For Fasting and Football, a Dedicated Game Plan."](https://www.nytimes.com/2005/10/26/education/for-fasting-and-football-a-dedicated-game-plan.html) _The New York Times_, 10/26/2005.
 
 Week 13:

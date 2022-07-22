@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Questions to guide reading and discussion of the texts in 21G.221.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Topics to Guide Reading and Discussion
 uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 ---
@@ -27,7 +30,7 @@ Topics
 {{< tdopen >}}
 
 
-[What Is the Nature of Culture and Language? (Part I)]({{< baseurl >}}/pages/discussion-topics/what-is-the-nature-of-culture-and-language#parti)
+{{% resource_link cea33bac-9107-1958-a4ea-6115f8628486 "What Is the Nature of Culture and Language? (Part I)" "#parti" %}}
 
 
 {{< tdclose >}}
@@ -40,7 +43,7 @@ Topics
 {{< tdopen >}}
 
 
-[What Is the Nature of Culture and Language? (Part II)]({{< baseurl >}}/pages/discussion-topics/what-is-the-nature-of-culture-and-language#partii)
+{{% resource_link cea33bac-9107-1958-a4ea-6115f8628486 "What Is the Nature of Culture and Language? (Part II)" "#partii" %}}
 
 
 {{< tdclose >}}
@@ -53,7 +56,7 @@ Topics
 {{< tdopen >}}
 
 
-[How Do You Define Your Cultural Self?]({{< baseurl >}}/pages/discussion-topics/how-do-you-define-your-cultural-self)
+{{% resource_link 1a8caeea-22ac-e295-2b9f-83fba2a71238 "How Do You Define Your Cultural Self?" %}}
 
 
 {{< tdclose >}}
@@ -66,7 +69,7 @@ Topics
 {{< tdopen >}}
 
 
-[Mainstream Anglo-American Communication Norms]({{< baseurl >}}/pages/discussion-topics/mainstream-anglo-american-communication-norms)
+{{% resource_link 2f13b08f-b565-4ac7-c9cc-4b73638dc4b8 "Mainstream Anglo-American Communication Norms" %}}
 
 
 {{< tdclose >}}
@@ -79,7 +82,7 @@ Topics
 {{< tdopen >}}
 
 
-[Communicating in the US Education System]({{< baseurl >}}/pages/discussion-topics/communicating-in-the-us-education-system)
+{{% resource_link 8fc7ec4f-4eec-849d-d4a8-4216815403cf "Communicating in the US Education System" %}}
 
 
 {{< tdclose >}}
@@ -92,7 +95,7 @@ Topics
 {{< tdopen >}}
 
 
-[Communication Norms in the Workplace]({{< baseurl >}}/pages/discussion-topics/communication-norms-in-the-workplace)
+{{% resource_link e629c4bb-d1ea-0fc4-5a3a-1d63b777cca1 "Communication Norms in the Workplace" %}}
 
 
 {{< tdclose >}}
@@ -105,7 +108,7 @@ Topics
 {{< tdopen >}}
 
 
-[The Art of American Small Talk]({{< baseurl >}}/pages/discussion-topics/the-art-of-american-small-talk)
+{{% resource_link 37a74479-85a9-d02c-11ed-f7b9cef9fd7f "The Art of American Small Talk" %}}
 
 
 {{< tdclose >}}
@@ -118,7 +121,7 @@ Topics
 {{< tdopen >}}
 
 
-[Geography, History, and American Communication Patterns (Part I)]({{< baseurl >}}/pages/discussion-topics/geography-history-and-american-communication-patterns#parti)
+{{% resource_link 11d6251b-624a-4038-a891-d1da87985562 "Geography, History, and American Communication Patterns (Part I)" "#parti" %}}
 
 
 {{< tdclose >}}
@@ -131,7 +134,7 @@ Topics
 {{< tdopen >}}
 
 
-[Geography, History, and American Communication Patterns (Part II)]({{< baseurl >}}/pages/discussion-topics/geography-history-and-american-communication-patterns#partii)
+{{% resource_link 11d6251b-624a-4038-a891-d1da87985562 "Geography, History, and American Communication Patterns (Part II)" "#partii" %}}
 
 
 {{< tdclose >}}
@@ -144,7 +147,7 @@ Topics
 {{< tdopen >}}
 
 
-[Geography, History, and American Communication Patterns (Part III)]({{< baseurl >}}/pages/discussion-topics/geography-history-and-american-communication-patterns#partiii)
+{{% resource_link 11d6251b-624a-4038-a891-d1da87985562 "Geography, History, and American Communication Patterns (Part III)" "#partiii" %}}
 
 
 {{< tdclose >}}
@@ -157,7 +160,7 @@ Topics
 {{< tdopen >}}
 
 
-[Geography, History, and American Communication Patterns (Part IV)]({{< baseurl >}}/pages/discussion-topics/geography-history-and-american-communication-patterns#partiv)
+{{% resource_link 11d6251b-624a-4038-a891-d1da87985562 "Geography, History, and American Communication Patterns (Part IV)" "#partiv" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +173,7 @@ Topics
 {{< tdopen >}}
 
 
-[The Role of Religion in American Communication Patterns]({{< baseurl >}}/pages/discussion-topics/the-role-of-religion-in-american-communication-patterns)
+{{% resource_link 94aab812-35bd-90ac-2cab-70bf5fce88c4 "The Role of Religion in American Communication Patterns" %}}
 
 
 {{< tdclose >}}
@@ -183,7 +186,7 @@ Topics
 {{< tdopen >}}
 
 
-[Language as a Reflection of Core American Values]({{< baseurl >}}/pages/discussion-topics/language-as-a-reflection-of-core-american-values)
+{{% resource_link c8dab256-abf6-8ade-3f8d-b7063f6e8610 "Language as a Reflection of Core American Values" %}}
 
 
 {{< tdclose >}}
@@ -196,7 +199,7 @@ Topics
 {{< tdopen >}}
 
 
-[Communicating through the American Soundtrack]({{< baseurl >}}/pages/discussion-topics/communicating-through-the-american-soundtrack)
+{{% resource_link 5837a4e0-3585-56f5-4de6-59bb96c46fc8 "Communicating through the American Soundtrack" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +212,7 @@ Topics
 {{< tdopen >}}
 
 
-[The Language of Sports in American Culture]({{< baseurl >}}/pages/discussion-topics/the-language-of-sports-in-american-culture)
+{{% resource_link 44ae936b-d02d-95e4-30b7-23f3685852ae "The Language of Sports in American Culture" %}}
 
 
 {{< tdclose >}}
@@ -222,7 +225,7 @@ Topics
 {{< tdopen >}}
 
 
-[Communicating in America: TV Shows as Cultural Vectors]({{< baseurl >}}/pages/discussion-topics/communicating-in-america-tv-shows-as-cultural-vectors)
+{{% resource_link fc335064-20a0-0e50-fe79-65fed2c87aa7 "Communicating in America: TV Shows as Cultural Vectors" %}}
 
 
 {{< tdclose >}}

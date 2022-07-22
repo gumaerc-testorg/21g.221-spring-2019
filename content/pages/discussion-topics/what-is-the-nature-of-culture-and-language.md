@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: Discussion topics from sessions 2 and 3
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: What Is the Nature of Culture and Language?
 uid: cea33bac-9107-1958-a4ea-6115f8628486

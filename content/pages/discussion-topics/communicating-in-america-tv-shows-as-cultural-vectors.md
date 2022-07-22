@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Topics to Guide Reading and Discussion
+parent_type: CourseSection
 parent_uid: 71392f23-035e-beac-4f1c-596c9792b3a0
 title: 'Communicating in America: TV Shows as Cultural Vectors'
 uid: fc335064-20a0-0e50-fe79-65fed2c87aa7
