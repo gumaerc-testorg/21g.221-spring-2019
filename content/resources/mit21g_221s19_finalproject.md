@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-221-communicating-in-american-culture-s-spring-2019/f3d7eb0ee3eddd5b452fd4e14a4a33c5_MIT21G_221S19_finalproject.pdf
+file_size: 1075703
 file_type: application/pdf
 learning_resource_types:
 - Assignments
