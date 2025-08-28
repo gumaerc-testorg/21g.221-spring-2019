@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-221-communicating-in-american-culture-s-spring-2019/ab2b0ecd19190a2be1a44fa1a4357873_MIT21G_221S19_sportslit.pdf
+file: /ol-ocw-studio-app/courses/21g-221-communicating-in-american-culture-s-spring-2019/ab2b0ecd19190a2be1a44fa1a4357873_MIT21G_221S19_sportslit.pdf
 file_size: 101683
 file_type: application/pdf
 learning_resource_types: []
